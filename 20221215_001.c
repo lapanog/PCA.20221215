@@ -14,7 +14,7 @@ int main()
   printf("Digite outro número: ");
   scanf("%d", &num2);
   
-  soma = num1 + num2
+  soma = num1 + num2;
   printf("\nO resultado da soma entre %d e %d é %d\n", num1, num2, soma);
   
   return 0;
