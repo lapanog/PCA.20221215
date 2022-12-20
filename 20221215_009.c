@@ -32,3 +32,4 @@ int main()
     printf("\nO terceiro elevado ao cubo é igual a %f.\n", conta3);
     
     return 0;
+}
